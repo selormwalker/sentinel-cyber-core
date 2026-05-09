@@ -21,3 +21,6 @@ ACTIVITY: Added new optimization layer to the core engine.
 TIMESTAMP: Sat May  9 21:46:24 UTC 2026
 ACTIVITY: Identified and resolved a potential memory bottleneck.
 ---
+TIMESTAMP: Sat May  9 22:49:30 UTC 2026
+ACTIVITY: Updated the technical architecture docs for clarity.
+---
