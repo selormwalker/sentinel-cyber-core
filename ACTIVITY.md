@@ -231,3 +231,6 @@ ACTIVITY: Hardened the API gateway layer against unexpected service interruption
 TIMESTAMP: Fri May 15 21:18:40 UTC 2026
 ACTIVITY: Migrated core components to the next-generation microservice architecture.
 ---
+TIMESTAMP: Fri May 15 22:13:03 UTC 2026
+ACTIVITY: Updated the technical architecture docs to reflect recent infrastructure changes.
+---
