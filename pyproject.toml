@@ -1,0 +1,13 @@
+[project]
+name = "sentinel-cyber-core"
+version = "0.1.0"
+dependencies = [
+    "typer",
+    "requests",
+    "rich",
+    "python-dotenv",
+    "google-genai"
+]
+
+[tool.vercel]
+entrypoint = "sentinel.main:app"
