@@ -1,0 +1,5 @@
+Error reviewing .\sentinel\main.py: 'NoneType' object has no attribute 'models'
+Error reviewing .\sentinel\__init__.py: 'NoneType' object has no attribute 
+'models'
+Error reviewing .\tests\test_sentinel.py: 'NoneType' object has no attribute 
+'models'
