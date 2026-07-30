@@ -1683,3 +1683,6 @@ System heartbeat: 2026-07-30 14:52:27 - Verified node integrity and optimized ec
 TIMESTAMP: Thu Jul 30 15:23:55 UTC 2026
 ACTIVITY: Identified and resolved a critical memory bottleneck in the background service.
 ---
+TIMESTAMP: Thu Jul 30 17:04:18 UTC 2026
+ACTIVITY: Updated the technical architecture docs to reflect recent infrastructure changes.
+---
